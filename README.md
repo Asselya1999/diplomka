@@ -5,3 +5,4 @@
 "# diploma-" 
 "# diplomka" 
 "# diplomka" 
+"# diploma" 
